@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Making Stuff]]></title>
         <description><![CDATA[Making Stuff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://danielcrenna.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:49:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 16:50:41 GMT</lastBuildDate>
+        <atom:link href="http://danielcrenna.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedcddf6f16-b031-4a0a-918b-09f82e520988/index.html</link>
+            <description><![CDATA[<p>A simple thing that's hard to learn is, you can't do anything worth doing alone.</p>]]></description>
+            <link>http://danielcrenna.com/cddf6f16-b031-4a0a-918b-09f82e520988/index.html</link>
             <guid isPermaLink="false">cddf6f16-b031-4a0a-918b-09f82e520988</guid>
-            <pubDate>Thu, 24 Mar 2016 16:49:27 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 16:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
